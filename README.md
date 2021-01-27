@@ -1,7 +1,7 @@
----
-title: "R Notebook"
-output: rmarkdown::github_document
----
+Movies analysis
+================
+Irene N. Chang
+12/24/2020
 
 ## Rule mining for movies and Apriori algorithm
 
