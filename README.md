@@ -5,6 +5,8 @@ date: "1/26/2021"
 output: rmarkdown::github_document
 ---
 
+## Rule mining for movies and Apriori algorithm
+
 ```{r}
 library(dplyr)
 library(ggplot2)
